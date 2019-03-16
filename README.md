@@ -1,5 +1,5 @@
-# BoomMe
+# Bombardier
 
-BoomMe is 2D game/animation written in Java. 
+Bombardier is simple 2D game/animation written in Java. 
 
-![BoomMe](Boom-me.png)
+![Bombardier](Boom-me.png)
