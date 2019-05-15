@@ -1,5 +1,5 @@
 # Bombardier
 
-Bombardier is simple 2D game/animation written in Java. 
+Bombardier is simple Java 2D game, with accent on graphics effects. 
 
 ![Bombardier](Boom-me.png)
